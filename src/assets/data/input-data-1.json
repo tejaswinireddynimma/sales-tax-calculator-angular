@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "type" : "book",
+            "name" : "book",
+            "quantity" : 1,
+            "price"  : "12.49",
+            "imported": false
+        },
+        {
+            "type" : "music",
+            "name" : "mucsic cd",
+            "quantity" : 1,
+            "price"  : "14.99",
+            "imported": false
+        },
+        {
+            "type" : "food",
+            "name" : "chocolate bar",
+            "quantity" : 1,
+            "price"  : "0.85",
+            "imported": false
+        }
+    ]
+]
